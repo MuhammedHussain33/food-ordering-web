@@ -4,7 +4,7 @@ import Header from "./components/Layout/Header";
 import Meals from "./components/Meals/Meals";
 import Cart from "./components/Cart/Cart";
 import CartProvider from "./store/CartProvider";
-import Dashboard from "./components/Dashboard";
+// import Dashboard from "./components/Dashboard";
 
 
 // const App = () =>{
